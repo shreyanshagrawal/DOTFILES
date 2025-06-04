@@ -57,3 +57,15 @@ pulse
 penpot-desktop
 omf
 pix
+vivaldi-snapshot/NativeMessagingHosts
+1Password
+BraveSoftware/Brave-Browser/NativeMessagingHosts
+Code - OSS
+astro
+chromium/NativeMessagingHosts
+configstore
+google-chrome/NativeMessagingHosts
+google-chrome-beta/NativeMessagingHosts
+google-chrome-unstable/NativeMessagingHosts
+microsoft-edge-dev/NativeMessagingHosts
+netlify

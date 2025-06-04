@@ -28,6 +28,9 @@ return {
             vim.lsp.config("ts_ls", {
                 capabilities = { capabilities },
             })
+            vim.lsp.config("tailwindcss", {
+                capabilities = { capabilities },
+            })
             vim.lsp.config("pylsp", {
                 capabilities = { capabilities },
             })
